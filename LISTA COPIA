@@ -1,0 +1,102 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV 13MAX
+https://list.iptvcat.com/my_list/s/da5390a02764d3d41036ae24702f8e0f.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV SANTA CECÍLIA
+https://list.iptvcat.com/my_list/s/44498cb95c75fa871084f0312167759b.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV SEPIOL
+https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/media_w574711106_24036.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV SIM CACHOEIRO
+https://5cf4a2c2512a2.streamlock.net/8028/8028/media_w1870741919_29372.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV SIM VITÓRIA
+https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w1076369684.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV SIM LINHARES
+https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w1405339439.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV SÃO MATEUS
+https://5cf4a2c2512a2.streamlock.net/8236/8236/chunklist_w743279661.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/media_w556098960_532.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV SERRA
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-18312/playlist/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",REDETV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", SIM TV
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w268395680.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TV GUARAPARI
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/chunklist_w343956512.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", TV SIM SÃO MATEUS
+https://5cf4a2c2512a2.streamlock.net/8236/8236/chunklist_w2078999228.m3u8
+
+
+RÁDIOS DO ES
+
+#EXTINF:0 type="stream" channelId="-1", RÁDIO BAND FM
+https://conecta.welltecnologia.com.br/radio/8060/bandfm.mp3
+
+#EXTINF:0 type="stream" channelId="-1", RADIO CIDADE 103,1
+https://radio.saopaulo01.com.br/8286/stream
+
+#EXTINF:0 type="stream" channelId="-1", RADIO mania 87,9
+https://servidor40.brlogic.com:8138/live
+
+#EXTINF:0 type="stream" channelId="-1", RADIO CIDADE 103,1
+https://radio.saopaulo01.com.br/8286/stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1", RADIO difusora 
+http://caikron.com.br:8028/stream
+
+#EXTINF:0 type="stream" channelId="-1", RADIO LITORANEA MARATAIZES
+https://wms5.webradios.com.br:18930/8930
+
+#EXTINF:0 type="stream" channelId="-1", RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w954793761.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", RADIO cachoeiro
+http://shout25.crossradio.com.br:8136/;stream/1
+
+#EXTINF:0 type="stream" channelId="-1", LITORAL FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/LITORAL_VITORIA.mp3
+
+
+
+#EXTINF:0 type="stream" channelId="-1", All Sports
+https://canalteste.duckdns.org/app/tvgrandenatalhdtv/chunklist_0_video_spbkCYwK_llhls.m3u8?session=34_CEXykiZc.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Band News
+https://player-bandnewsfm-vit.stream.uol.com.br/live/bandnewsfm-vit.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",TV AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",PORTUGAL
+https://iptv-org.github.io/iptv/countries/pt.m3u
+
+#EXTINF:-1 grupo-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:http-referrer=https://rtp.pt/
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",FRANÇA
+https://iptv-org.github.io/iptv/countries/fr.m3u
+
+
+
+WEB CAM
+
+#EXTINF:-1 group-title="TV/Documentários"tvg-logo="http://i.imgur.com/BqlTzk4.png",ponte da amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/media-uf5f1yg1d_622.m3u8
+
+
